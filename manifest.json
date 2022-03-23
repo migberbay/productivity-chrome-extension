@@ -1,0 +1,11 @@
+{
+    "name": "Don't distract urself!",
+    "version": "0.1",
+    "description": "Control yourself on the internet, truly! Select webpages to block and the time you're allowed to be dstracted by them...",
+    "manifest_version": 3,
+    "author": "Miguel Bermudo",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Don't get distracted!"
+    }
+}
